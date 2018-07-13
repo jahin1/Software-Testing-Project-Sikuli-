@@ -1,1 +1,1 @@
-# Software-Testing-Project-Sikuli-
+# Sikuli-project
